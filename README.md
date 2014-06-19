@@ -88,5 +88,9 @@ $ slice 13 25 < package.json
 stream-slice
 ```
 
+## License
+
+[MIT](LICENSE).
+
 [0]: https://www.npmjs.org/
 [1]: http://nodejs.org/api/stream.html#stream_class_stream_transform_1
