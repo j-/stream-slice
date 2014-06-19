@@ -88,6 +88,10 @@ $ slice 13 25 < package.json
 stream-slice
 ```
 
+## Todo
+
+* Allow negative index for start and end values (like array and string slice)
+
 ## License
 
 [MIT](LICENSE).
