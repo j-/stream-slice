@@ -1,0 +1,32 @@
+{
+  "name": "stream-slice",
+  "version": "1.0.0",
+  "description": "Only the bits you want",
+  "keywords": [
+    "stream",
+    "slice",
+    "buffer"
+  ],
+  "homepage": "https://github.com/j-/stream-slice",
+  "bugs": "https://github.com/j-/stream-slice/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/j-/stream-slice.git"
+  },
+  "main": "index.js",
+  "bin": {
+    "slice": "bin/slice"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jamie Hoeks <j@skeoh.com>",
+  "license": "MIT",
+  "dependencies": {
+    "docopt": "~0.4.0"
+  }
+}

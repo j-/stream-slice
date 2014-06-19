@@ -1,0 +1,8 @@
+Pipe some data in and only get the bits you want.
+
+Usage:
+  slice [<start>] [<end>] [< in [> out]]
+
+Options:
+  -h, --help      Show this screen
+  -V, --version   Show version
