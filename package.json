@@ -19,7 +19,7 @@
   },
   "directories": {
     "example": "examples",
-    "test": "tests"
+    "test": "test"
   },
   "scripts": {
     "test": "mocha"
